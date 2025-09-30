@@ -136,8 +136,8 @@ The following images show the real-time output from the server-side LCD display,
 ## 🧑‍💻 Author
 
 **Ragavantiran Gurmoorthy**  
-MSc in Electronic & Computer Technology 
-Dublin City University, Dublin, Ireland
+MSc in Electronic & Computer Technology.  
+Dublin City University, Dublin, Ireland.  
 Passionate about embedded systems, consumer electronics, and creative engineering.
 
 ---
