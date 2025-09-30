@@ -5,7 +5,7 @@ const char* ssid = "yourwifiname";       // Your Wi-Fi network name
 const char* password = "wifipassword";   // Your Wi-Fi password
 
 // 🌐 Server details (ESP8266 server IP and port)
-const char* serverIP = "192.168.1.xx"; // IP address of the server ESP8266
+const char* serverIP = "192.168.1.xx"; // Replace the IP address of the server ESP8266
 const int serverPort = 8080;             // Port number used for TCP communication
 
 WiFiClient client;  // Create a TCP client object
