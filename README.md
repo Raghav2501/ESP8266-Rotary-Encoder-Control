@@ -112,9 +112,15 @@ If you're facing issues on institutional or campus Wi-Fi (due to firewalls or cl
 
 ### 📟 LCD Display Output
 
-Here are sample outputs from the server-side LCD display showing real-time brightness and toggle status:
+The following images show the real-time output from the server-side LCD display, reflecting brightness levels and toggle states as controlled by the rotary encoder module:
 
-![output_1](https://github.com/user-attachments/assets/c66f531f-18af-4ed7-b4a3-0ba20829679f)
+<p align="center">
+  <img src="images/output_1.jpeg" width="400"/>
+  <img src="images/output_2.jpeg" width="400"/>
+  <img src="images/output_3.jpeg" width="400"/>
+  <img src="images/output_4.jpeg" width="400"/>
+</p>
+
 
 ---
 
@@ -130,7 +136,8 @@ Here are sample outputs from the server-side LCD display showing real-time brigh
 ## 🧑‍💻 Author
 
 **Ragavantiran Gurmoorthy**  
-MSc in Electronic & Computer Technology  
+MSc in Electronic & Computer Technology 
+Dublin City University, Dublin, Ireland
 Passionate about embedded systems, consumer electronics, and creative engineering.
 
 ---
